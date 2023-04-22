@@ -1,16 +1,27 @@
-# novel_app
+# Novel app
 
-A new Flutter project.
+Ứng dụng đọc truyện chữ.
 
-## Getting Started
+## Tính năng
 
-This project is a starting point for a Flutter application.
+:heavy_check_mark: Lấy danh sách truyện theo category và hiển thị
+:heavy_check_mark: Chọn một truyện và lấy danh sách chương
+:heavy_check_mark: Đọc truyện cuộn dọc
+:x: Đọc truyện cuộn ngang
+:heavy_check_mark: Đổi font, font size, background khi đọc truyện
 
-A few resources to get you started if this is your first Flutter project:
+## Hình ảnh và videos ứng dụng
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![](/assets/images/chapter_detail.png)
+Giao diện đọc truyện
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](/assets/images/list_category.png)
+Giao diện danh sách thể loại
+
+![](/assets/images/list_story.png)
+Giao diện danh sách truyện theo thể loại
+
+![](/assets/images/story_detail.png)
+Giao diện nội dung của truyện
+
+![](/assets/videos/video.mp4)
