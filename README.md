@@ -10,18 +10,21 @@
 - Đọc truyện cuộn ngang :x:
 - Đổi font, font size, background khi đọc truyện :heavy_check_mark:
 
-## Hình ảnh và videos ứng dụng
+## Hình ảnh và demos ứng dụng
 
-![](/assets/images/chapter_detail.png)
-Giao diện đọc truyện
+- Video Demo (https://youtube.com/shorts/jt2S8lmk46Y)
 
-![](/assets/images/list_category.png)
-Giao diện danh sách thể loại
+- Giao diện đọc truyện
+<img src="/assets/images/chapter_detail.png" alt="app-screen" width="300" />
 
-![](/assets/images/list_story.png)
-Giao diện danh sách truyện theo thể loại
+- Giao diện danh sách thể loại
+<img src="/assets/images/list_category.png" alt="app-screen" width="300" />
 
-![](/assets/images/story_detail.png)
-Giao diện nội dung của truyện
 
-![](/assets/videos/video.mp4)
+- Giao diện danh sách truyện theo thể loại
+<img src="/assets/images/list_story.png" alt="app-screen" width="300" />
+
+
+- Giao diện nội dung của truyện
+<img src="/assets/images/story_detail.png" alt="app-screen" width="300" />
+
