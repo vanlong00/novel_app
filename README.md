@@ -4,11 +4,11 @@
 
 ## Tính năng
 
-:heavy_check_mark: Lấy danh sách truyện theo category và hiển thị
-:heavy_check_mark: Chọn một truyện và lấy danh sách chương
-:heavy_check_mark: Đọc truyện cuộn dọc
-:x: Đọc truyện cuộn ngang
-:heavy_check_mark: Đổi font, font size, background khi đọc truyện
+- Lấy danh sách truyện theo category và hiển thị :heavy_check_mark:
+- Chọn một truyện và lấy danh sách chương :heavy_check_mark:
+- Đọc truyện cuộn dọc :heavy_check_mark:
+- Đọc truyện cuộn ngang :x:
+- Đổi font, font size, background khi đọc truyện :heavy_check_mark:
 
 ## Hình ảnh và videos ứng dụng
 
